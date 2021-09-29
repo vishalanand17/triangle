@@ -1,2 +1,2 @@
 # triangle
- mark-twelve-leran-triangles
+ mark-twelve-do you know triangles
